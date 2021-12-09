@@ -24,7 +24,7 @@ Computer Vision, Stereo Matching, 3D reconstruction, Deep Learning, Ag Robot
 
 
 #### Journal Articles
- * Li
+ * Wang, Q., Ma, B., Liu, W., Lou, M., Zhou, M., Jiang, H., & Ying, Y. (2021). PlantStereo: A Stereo Matching Benchmark for Plant Surface Dense Reconstruction. *arXiv preprint arXiv:2111.15192*. [[Link]](https://arxiv.org/abs/2111.15192)
 
 
 
