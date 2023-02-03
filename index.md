@@ -21,8 +21,8 @@
 AG Robot, Stereo Matching, Deep Learning
 
 ### Journal Articles
- * **Wang, Q**., Ma, B., Liu, W., Lou, M., Zhou, M\*., Jiang, H., & Ying, Y. (2021). PlantStereo: A Stereo Matching Benchmark for Plant Surface Dense Reconstruction. *arXiv preprint arXiv:2111.15192*. [[Link]](https://arxiv.org/abs/2111.15192)
+ * **Wang, Q.**, Wu, D., Liu, W., Lou, M., Jiang, H., Ying, Y., & Zhou, M. (2023). PlantStereo: A High Quality Stereo Matching Dataset for Plant Reconstruction. *Agriculture*, *13*(2), 330. [[Link]](https://arxiv.org/abs/2111.15192)
 
 
 ### Conferences & Workshops
- * **Qingyu Wang**, Mingchuan Zhou\*, Huanyu Jiang, Yibin Ying. An End-to-end Deep Learning Stereo Matching Method for Robotic Leaf Sampling. 2021 IEEE International Conference on Robotics and Automation (ICRA) - Workshop: Task-Informed Grasping: Agri-Food manipulation (TIG-III). (最佳海报奖)
+ * **Qingyu Wang**, Mingchuan Zhou\*, Huanyu Jiang, Yibin Ying. An End-to-end Deep Learning Stereo Matching Method for Robotic Leaf Sampling. 2021 IEEE International Conference on Robotics and Automation (ICRA) - Workshop: Task-Informed Grasping: Agri-Food manipulation (TIG-III). (Poster Award)
