@@ -21,7 +21,7 @@
 AG Robot, Stereo Matching, Deep Learning
 
 ### Journal Articles
- * **Wang, Q.**, Wu, D., Liu, W., Lou, M., Jiang, H., Ying, Y., & Zhou, M. (2023). PlantStereo: A High Quality Stereo Matching Dataset for Plant Reconstruction. *Agriculture*, *13*(2), 330. [[Link]](https://arxiv.org/abs/2111.15192)
+ * **Wang, Q.**, Wu, D., Liu, W., Lou, M., Jiang, H., Ying, Y., & Zhou, M. (2023). PlantStereo: A High Quality Stereo Matching Dataset for Plant Reconstruction. *Agriculture*, *13*(2), 330. [[Link]](https://www.mdpi.com/2077-0472/13/2/330)
 
 
 ### Conferences & Workshops
